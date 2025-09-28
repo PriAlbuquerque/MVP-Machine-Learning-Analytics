@@ -18,7 +18,7 @@ Desenvolver e comparar modelos supervisionados de regressão e classificação p
 ## 📊 Dataset
 Continuação do trabalho anterior - Utilizamos o dataset tratado e enriquecido do MVP de Análise Exploratória:
 
-## 🔗 Acesse o dataset completo no link público do Google Drive (https://drive.google.com/file/d/1fOpCZXMsiPxXhi9U9U4eJwlQo8yHZia8/view?usp=drive_link)
+🔗 Acesse o dataset completo no link público do Google Drive (https://drive.google.com/file/d/1fOpCZXMsiPxXhi9U9U4eJwlQo8yHZia8/view?usp=drive_link)
 Escopo: Publicações com pelo menos um autor afiliado ao Brasil na área da Medicina (2005-2021)
 Formato: CSV tratado e limpo, aproximadamente 250 mil registros
 Variáveis selecionadas: 5 variáveis mais relevantes identificadas na análise exploratória
@@ -35,6 +35,7 @@ Modelos Implementados
 REGRESSÃO (Valor contínuo)
 - Random Forest Regressor
 - Linear Regression
+  
 CLASSIFICAÇÃO (Categorias)
 - Random Forest Classifier  
 - Logistic Regression
