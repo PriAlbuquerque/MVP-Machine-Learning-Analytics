@@ -2,8 +2,7 @@
 
 ## Análise Supervisionada para Classificação e Regressão do Impacto Científico Baseado em Colaboração Internacional, Acesso Aberto e Perfil de Autoria
 
-Este repositório contém o desenvolvimento de um **Minimum Viable Product (MVP)**, realizado no contexto da disciplina de ML da PUC-Rio no curso de pós graduação em em **Ciência de Dados & Analytics**.  
-Este projeto implementa modelos de Machine Learning supervisionado para predição do impacto de publicações científicas brasileiras na área de Medicina, dando continuidade à análise exploratória realizada no MVP anterior (Análise de Dados e Boas Práticas). Utilizamos o dataset consolidido e tratado para construir modelos preditivos que identificam os fatores determinantes do impacto científico medido através de citações.
+Este repositório contém o desenvolvimento de um **Minimum Viable Product (MVP)**, realizado no contexto da disciplina de ML da PUC-Rio no curso de pós graduação em em **Ciência de Dados & Analytics**. Este projeto implementa modelos de Machine Learning supervisionado para predição do impacto de publicações científicas brasileiras na área de Medicina, dando continuidade à análise exploratória realizada no MVP anterior (Análise de Dados e Boas Práticas). Utilizamos o dataset consolidido e tratado para construir modelos preditivos que identificam os fatores determinantes do impacto científico medido através de citações.
 
 ---
 
@@ -30,7 +29,6 @@ Variáveis selecionadas: 5 variáveis mais relevantes identificadas na análise 
 - Ano de Publicação → Efeito temporal no acúmulo de citações
 
 ## ⚙️ Metodologia Técnica
-Modelos Implementados
 
 REGRESSÃO (Valor contínuo)
 - Random Forest Regressor
