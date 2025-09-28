@@ -1,4 +1,4 @@
-# 📊 MVP Machine Learning & Analytics - Predição do Impacto de Publicações Científicas Brasileiras em Medicina (2005–2021)
+# 🚀 MVP Machine Learning & Analytics - Predição do Impacto de Publicações Científicas Brasileiras em Medicina (2005–2021)
 
 ## Análise Supervisionada para Classificação e Regressão do Impacto Científico Baseado em Colaboração Internacional, Acesso Aberto e Perfil de Autoria
 
@@ -6,9 +6,7 @@ Este repositório contém o desenvolvimento de um **Minimum Viable Product (MVP)
 
 ---
 
-## 🚀 Objetivos do Projeto
-
-## 🎯 Objetivo
+## 🎯 Objetivos do Projeto
 Desenvolver e comparar modelos supervisionados de regressão e classificação para prever o impacto de publicações científicas com base em variáveis-chave identificadas na análise exploratória inicial:
 
 - Regressão: Prever o número exato de citações (citedby_count)
